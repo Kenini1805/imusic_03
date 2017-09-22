@@ -1,0 +1,27 @@
+{
+  "name": "imusic_03",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Kenini1805 <huusu1996@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Kenini1805/imusic_03",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-min-only": "^3.3.5",
+    "flag-icon-css": "^2.8.0",
+    "font-awesome-animation": "^0.0.10",
+    "slick-carousel": "^1.7.1",
+    "metisMenu": "metismenu#^2.7.0",
+    "angular-timeline": "^1.7.0",
+    "plyr": "^2.0.13"
+  }
+}
